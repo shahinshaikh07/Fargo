@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Fargo/static/css/main.2ad59690.css",
+    "main.js": "/Fargo/static/js/main.b4bd5216.js",
+    "static/js/787.f055211e.chunk.js": "/Fargo/static/js/787.f055211e.chunk.js",
+    "index.html": "/Fargo/index.html",
+    "main.2ad59690.css.map": "/Fargo/static/css/main.2ad59690.css.map",
+    "main.b4bd5216.js.map": "/Fargo/static/js/main.b4bd5216.js.map",
+    "787.f055211e.chunk.js.map": "/Fargo/static/js/787.f055211e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ad59690.css",
+    "static/js/main.b4bd5216.js"
+  ]
+}
